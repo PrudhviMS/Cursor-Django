@@ -1,5 +1,7 @@
 # Learn how to build Python-based Web Apps with Cursor AI
 
+
+
 This repo is the output from the [YouTube course](https://youtu.be/ESrWYoXZc8s) building a full-stack web application with English. 
 
 Create a cutting edge and modern web app using just English. Cursor AI unlocks an amazing ability to build fast and robust applications by allowing you to speak English while it writes the code for you in a code-editing environment. 
